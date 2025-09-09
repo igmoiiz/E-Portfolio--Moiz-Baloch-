@@ -72,12 +72,6 @@ However, **feedback, suggestions, or issue reports** are always welcome.
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
----
-
 ## 📬 Contact  
 
 - **Email**: [moaiz3110@gmail.com](mailto:moaiz3110@gmail.com)  
